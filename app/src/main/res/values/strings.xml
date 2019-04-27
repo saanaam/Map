@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Map</string>
+    <string name="directionsApiKey">AIzaSyD806dC1tHsNUGA59ZEy79r1B7YfdsLgs4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="origin">مبدا</string>
+    <string name="get">دریافت</string>
+    <string name="destination">مقصد</string>
+
+
+</resources>
